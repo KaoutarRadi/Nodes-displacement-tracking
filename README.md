@@ -18,7 +18,7 @@
     <img src="2D_HoneyComb_tension.gif" alt="" width="200" height="200">
 </div>
 
-## Introduction Setup
+## Introduction 
 
 Traditional techniques like Digital Image Correlation (DIC) face challenges in tracking the time-dependent deformation of 3D-printed low-density trusses. This is due to the mismatch between strut sizes and the truss's overall field of view, complications in speckle pattern application, and the absence of a consistent bright background during tests—issues that are exacerbated at high rates and with significant 3D deformations. To address these challenges, we introduce an efficient DIC-based method designed to track nodal displacements in both periodic and non-periodic truss structures across various loading rates. The primary application of this technique is to analyze the extensive deformation in different truss designs, the techniaue can also be used to track displacements of different features in a wide range of materials under static and dynamic loading.This repository, provides the essential node tracking code, complete with examples and a comprehensive user manual.
 
@@ -26,7 +26,6 @@ Traditional techniques like Digital Image Correlation (DIC) face challenges in t
 
 To effectively track the displacement of nodes or features in a sample, follow the steps outlined below:
 
-### 1. Parameters configuration:
 
 ### 1.  Parameters configuration:
 - **Directory**: `src`
